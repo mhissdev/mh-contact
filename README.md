@@ -1,5 +1,5 @@
 # Customer Contact Form
-The objective of the task was create a contact form to allow customers to make enquiries to a retailer.
+The objective of the task was to create a contact form to allow customers to make enquiries to a retailer.
 ## Usage Instructions
 The application requires PHP and a MySQL database to store enquiry records. Before running the contact form you will need to create a MySQL database with full read and write permissions. Furthermore, the application will need to be configured. The configuration settings are stored in the ‘config.php’ file which can be found in the ‘mh-contact/app/config’ directory.
 
